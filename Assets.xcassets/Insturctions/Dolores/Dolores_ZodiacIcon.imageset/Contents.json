@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Dolores_ZodiacIcon.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Dolores_ZodiacIcon@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Dolores_ZodiacIcon@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

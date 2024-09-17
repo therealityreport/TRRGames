@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ShowFeature-DanceMoms.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ShowFeature-DanceMoms@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ShowFeature-DanceMoms@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
